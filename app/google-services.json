@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156704868851",
+    "firebase_url": "https://lecture2-bf46f.firebaseio.com",
+    "project_id": "lecture2-bf46f",
+    "storage_bucket": "lecture2-bf46f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156704868851:android:72281100373f8e1d156a86",
+        "android_client_info": {
+          "package_name": "com.example.lecture2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156704868851-frbud829lctscct971tc4o1ekp2t4c8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lecture2",
+            "certificate_hash": "abbe0da8bed0d5e99604ad7b19fb997d88af0358"
+          }
+        },
+        {
+          "client_id": "156704868851-hpbs098s039q7hv2erhm9q8e81pglptl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdD6EGAX5VtjtzxxIISgK1XLFePmgsEsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156704868851-hpbs098s039q7hv2erhm9q8e81pglptl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
